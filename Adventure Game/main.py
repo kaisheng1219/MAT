@@ -5,5 +5,6 @@ def intro():
     print(" 1) Single Player")
     print(" 2) Multiplayer") 
 
-def 
+
 intro()
+print(1)
